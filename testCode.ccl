@@ -1,0 +1,6 @@
+int myFun(int g) {
+    int k = g * 10.
+    return k + 3.
+}
+myFun(8).
+myFun(10).
