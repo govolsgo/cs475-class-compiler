@@ -1,4 +1,9 @@
-//code goes here (main)
+// Class Tokenizer (Driver)
+// main.cpp
+// Carter Crews
+// 2017
+// For CS475 Sp2017 at UTM.
+
 #include <iostream>
 #include <string>
 #include <vector>
