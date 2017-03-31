@@ -41,6 +41,7 @@ float				{cout << "<FLOAT>";}
 \{				{cout << "<LCURL>";}
 \}				{cout << "<RCURL>";}
 if				{cout << "<IF>";}
+!				{cout << "<EP>";}
 [a-zA-Z0-9_]+			{cout << "<ID,"
 				      << symbolTableLoc("ID",yytext)
 				      << ">";}
